@@ -261,7 +261,7 @@ li{
 }
 
 .fa-instagram-square:hover{
-    color: #8134AF;
+    color: rgb(161, 35, 181);
 }
 
 /* end about */
@@ -459,7 +459,7 @@ input[type="submit"]:hover{
 .up{
     position: absolute;
     width: 5rem;
-    height: 4rem;
+    height: 5rem;
     background-color: #eee;
     top: -2.5rem;
     right: 5rem;
